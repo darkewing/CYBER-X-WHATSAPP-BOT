@@ -28,7 +28,7 @@
 
 3. Go app.json and Change "repostory" Url's user name to your user name ( Line 04 )
 
-4. Create your own Heroku template Link `https://heroku.com/deploy?template={Your repo Link}`
+4. Create your own Heroku template Link https://heroku.com/deploy?template={https://github.com/darkewing/CYBER-X-WHATSAPP-BOT}
 
 5. Deploy now without Heroku Suspend
 
